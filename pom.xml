@@ -7,9 +7,10 @@
   <packaging>war</packaging>
   <name>embeddedTomcatSample Maven Webapp</name>
   <url>http://maven.apache.org</url>
-  
+
   <properties>
-    <tomcat.version>7.0.57</tomcat.version>
+    <!-- Updated Tomcat version to 9.0.98 -->
+    <tomcat.version>9.0.98</tomcat.version>
   </properties>
 
   <dependencies>
